@@ -113,5 +113,5 @@
      ]
 }
 ```
-UML diagram:
+UML диаграмма:
 ![UML diagram](https://github.com/amirkenesbay/json-csv-parser/blob/master/MoscowMetroJsonCsvParser.png)
